@@ -17,6 +17,13 @@ Comment la mortalité des moins de cinq ans a-t-elle évolué depuis 2000, et co
 - Méthode du producteur : [UNICEF — mortalité des moins de cinq ans](https://data.unicef.org/topic/child-survival/under-five-mortality/).
 
 Les données décrivent six pays sélectionnés ; elles ne constituent pas une estimation agrégée pour toute l’Afrique de l’Ouest. La date exacte du téléchargement original n’a pas été conservée dans cette documentation. La fiche source a été consultée le 13 septembre 2026 ; ses estimations peuvent être révisées ultérieurement.
+## Aperçu du tableau de bord
+
+### Vue d’ensemble
+![Vue d’ensemble](captures/dash%201.png)
+
+### Analyse détaillée
+![Analyse détaillée](captures/dash%202.png)
 
 ## Résultats principaux
 
